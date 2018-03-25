@@ -73,3 +73,8 @@
 The materials herein are all (c) 2013-2017 Kyle Simpson.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+
+## 译者注
+1：我想看该系列的中文版，可是在git上没有找到比较完整版。所以，一时兴起，干脆自己来翻译啦。希望对自己有帮助。
+2：下载该库时，占据磁盘10.7M[20180325]，够大的。
+3：该系列是根据自己的理解，再加上谷歌翻译完成。
