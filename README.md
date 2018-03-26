@@ -19,17 +19,17 @@
 ## ~~Titles~~ 标题
 
 * ~~Read online (free!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!~~  
-* 在线阅读 (免费!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), 出版: [立即购买](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) 印刷版，但电子书格式是免费的!
+* 在线阅读 (免费!): ["起步上路"](up\%20&\%20going/README.md#you-dont-know-js-up--going), 出版: [立即购买](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) 印刷版，但电子书格式是免费的!
 * ~~Read online (free!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)~~  
-* 在线阅读 (免费!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), 出版: [立即购买](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
+* 在线阅读 (免费!): ["作用域和闭包"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), 出版: [立即购买](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
 * ~~Read online (free!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)~~  
-* 在线阅读 (免费!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), 出版: [立即购买](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
+* 在线阅读 (免费!): ["this和对象原型"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), 出版: [立即购买](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
 * ~~Read online (free!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)~~  
-* 在线阅读 (免费!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), 出版: [立即购买](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
+* 在线阅读 (免费!): ["类型和语法"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), 出版: [立即购买](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
 * ~~Read online (free!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)~~  
-* 在线阅读 (免费!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), 出版: [立即购买](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
+* 在线阅读 (免费!): ["异步和性能"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), 出版: [立即购买](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
 * ~~Read online (free!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)~~  
-* 在线阅读 (免费!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), 出版: [立即购买](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
+* 在线阅读 (免费!): ["ES6及更新版本"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), 出版: [立即购买](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
 
 ## ~~Publishing~~ 出版
 
@@ -78,3 +78,19 @@ The materials herein are all (c) 2013-2017 Kyle Simpson.
 1：我想看该系列的中文版，可是在git上没有找到比较完整版。所以，一时兴起，干脆自己来翻译啦。希望对自己有帮助。
 2：下载该库时，占据磁盘10.7M[20180325]，够大的。
 3：该系列是根据自己的理解，再加上谷歌翻译完成。
+
+## 翻译进度
+
+- 作用域和闭包 (正在翻译中)
+
+### scope & closures
+- toc.md
+- forword.md
+- ch1.md
+- ch2.md
+- ch3.md
+- ch4.md
+- ch5.md
+- apA.md
+- apB.md
+- ~~README.md~~
